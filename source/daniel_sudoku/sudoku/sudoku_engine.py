@@ -21,4 +21,4 @@ class Sudoku:
         """
         TODO: Write a docstring for the generate method using numpy style.
         """
-        pass
+        pass # TODO: Make Sudoku work
